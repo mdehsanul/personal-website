@@ -1,0 +1,229 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+#nav-section {
+  height: 30px;
+  margin-right: 5%;
+  margin-top: 2%;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.li-nav-section {
+  list-style-type: none;
+  float: right;
+  margin-right: 2%;
+  padding-bottom: 2%;
+}
+
+.li-nav-button {
+  text-decoration: none;
+  color: #363958;
+}
+
+.ul-introduction {
+  color: #363958;
+  font-weight: 500;
+  padding-bottom: 5%;
+}
+
+h1 {
+  font-size: 60px;
+  color: #363958;
+}
+
+.orange-highlight {
+  color: #ff8367;
+}
+
+.paragraph-introduction {
+  color: #363958;
+  font-weight: 500;
+  text-align: justify;
+  padding-right: 38%;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 5%;
+}
+
+.img-size {
+  width: 70%;
+}
+
+.section-height {
+  height: 600px;
+  padding-bottom: 110px;
+}
+
+.button-link {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, salmon, tomato);
+  border-radius: 5px;
+  padding: 20px 45px;
+  color: aliceblue;
+  font-size: 17px;
+}
+
+.paragraph-about {
+  color: #363958;
+  font-weight: 500;
+  text-align: justify;
+  padding-right: 28%;
+  padding-bottom: 5%;
+}
+
+.work-project-bg {
+  background-color: #f8f8f8;
+  height: 800px;
+}
+
+.project-title {
+  font-size: 46px;
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 3%;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+.project-half-wide {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 18px;
+  width: 24%;
+  height: 470px;
+  float: left;
+  margin-left: 2%;
+}
+
+.gym-left {
+  margin-left: 14%;
+}
+
+.work-img {
+  width: 95%;
+  padding: 10px 10px;
+}
+
+.work-img-title {
+  font-weight: 800;
+  padding-left: 25px;
+}
+
+.work-description {
+  padding-left: 25px;
+  padding-right: 80px;
+}
+
+.image-gap {
+  padding-top: 10%;
+}
+
+.chat-head {
+  font-size: 46px;
+  text-align: center;
+  padding-top: 4%;
+}
+
+.chat-title {
+  font-size: 40px;
+  margin-left: 32.5%;
+  text-decoration: underline;
+  color: tomato;
+}
+
+.form {
+  text-align: center;
+}
+
+.inputs {
+  height: 50px;
+  width: 55%;
+  margin-top: 1%;
+  font-size: 18px;
+  padding-left: 1%;
+  border-radius: 10px;
+}
+
+textarea {
+  font-size: 18px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding-left: 1%;
+}
+
+.edit-buttton {
+  color: #f8f8f8;
+  background-image: linear-gradient(45deg, Salmon, tomato);
+  font-weight: 700;
+}
+
+.image-background {
+  width: 75%;
+  margin-left: 2%;
+}
+
+.text-img-container {
+  position: relative;
+  text-align: center;
+}
+
+.top-left {
+  position: absolute;
+  top: 54%;
+  left: 18%;
+}
+
+.top-right {
+  position: absolute;
+  top: 66%;
+  right: 18%;
+}
+
+#box-img-section {
+  font-size: 60px;
+  font-weight: 700;
+  color: white;
+}
+
+#box-img-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, salmon, tomato);
+  border-radius: 5px;
+  padding: 20px 45px;
+  color: aliceblue;
+  font-size: 28px;
+}
+
+.connector {
+  text-align: center;
+  padding-bottom: 13%;
+}
+
+.connector-title {
+  color: #ff8367;
+  font-weight: 700;
+}
+
+.connector-email {
+  font-size: 35px;
+  color: #363958;
+}
+
+.li-icon-section {
+  list-style-type: none;
+  float: left;
+  margin-right: 2%;
+}
+
+#icon-section {
+  margin-left: 38%;
+  margin-top: 2%;
+}
